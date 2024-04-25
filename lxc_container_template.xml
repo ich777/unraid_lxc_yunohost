@@ -5,7 +5,7 @@
   <Release>bullseye</Release>
   <Architecture>amd64</Architecture>
   <Repository>https://github.com/ich777/unraid_lxc_yunohost</Repository>
-  <Description>Applications</Description>
+  <Description/>
   <Autostart>true</Autostart>
   <Beta>False</Beta>
   <Support>https://support.me.pls</Support>
@@ -14,7 +14,7 @@
   <Overview>YunoHost is an operating system aiming to simplify as much as possible the administration of a server.
 YunoHost, is mainly written in Python and Bash.</Overview>
   <Category>Tools:</Category>
-  <WebUI>https://[IP]:443</WebUI>
+  <WebUI>https://[IP]</WebUI>
   <Icon>https://raw.githubusercontent.com/ich777/docker-templates/master/ich777/images/yunohost.png</Icon>
   <DonateText>If you like my work (or not) please </DonateText>
   <DonateLink>https://payme.now/pls</DonateLink>
